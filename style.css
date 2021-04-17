@@ -1,0 +1,79 @@
+
+body{
+    background-color: black;
+}
+.header{
+    
+    margin: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: rgb(41, 172, 196);
+    text-align: center;
+    padding: 3rem
+    
+}
+
+.header #welcome-heading{
+    color: rgb(8, 8, 8);
+}
+
+#translation-area{
+    background-color: rgb(212, 201, 35);
+    text-align: center;
+    margin: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 3rem;
+}
+
+#translation-area #english-section textarea{
+    height: 150px;
+    width: 500px;
+    border-radius: 1rem;
+    font-size: 1.25rem;
+    padding:1rem;
+    font-weight: .25rem;
+}
+
+#translation-area #english-section #english-heading{
+    font-size: 2.5rem;
+    font-style: oblique;
+    margin-bottom: 1rem;
+}
+
+#translation-area #banana-section textarea{
+    height: 150px;
+    width: 500px;
+    border-radius: 1rem;
+    font-size: 1.25rem;
+    padding:1rem;
+    font-weight: .25rem;
+}
+
+
+#translation-area #banana-section #banana-heading{
+    font-size: 2.5rem;
+    font-style: oblique;
+    margin-bottom: 1rem;
+}
+
+#footer{
+    background-color: rgb(41, 172, 196);
+    margin:2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    padding:2.5rem;
+}
+
+#translation-area #english-section #english-translate-button{
+    padding: .75rem;
+    padding-left:3rem;
+    padding-right:3rem;
+    margin-top: 1rem;
+    border-radius: 1rem;
+    background-color: rgb(41, 172, 196);
+    font-weight: bold;
+    
+
+}
