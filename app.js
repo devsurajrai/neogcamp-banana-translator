@@ -23,6 +23,7 @@ function clickHandler(){
         bananaData.innerText=translatedText;
     })
     .catch(errorHandler)
+
 }
     
 
