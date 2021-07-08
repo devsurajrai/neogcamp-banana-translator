@@ -11,7 +11,7 @@ This is a fun app made with vanilla-js basic app which uses the event listener a
 
 ## resources
 
-### api- https://funtranslations.com/api/
+### api- https://funtranslations.com/api/minion
 ### tutorial- [neoGcamp- Javascript in the Browser](https://www.youtube.com/watch?v=yLZazznWoAs&list=PLzvhQUIpvvuj5KPnyPyWsvgyzNkX_ACPA&index=6)
 
 
