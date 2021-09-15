@@ -78,6 +78,7 @@ body{
    border: 2px solid rgb(41, 172, 196);
    background-color: white;
     font-weight: bold;
-    
-
+}
+#english-translate-button{
+    cursor:pointer
 }

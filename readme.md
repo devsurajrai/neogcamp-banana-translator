@@ -2,6 +2,8 @@
 
 This is a fun app made with vanilla-js basic app which uses the event listener and api to translate the given text into another language which is in this case is a banana language(minion' language).
 
+
+#### Go to the project:[ Visit Live](https://neo-banana-translate.netlify.app/)
 ## screenshots
 ![banana-translator](img/app-without-translation.png)
 
@@ -15,5 +17,4 @@ This is a fun app made with vanilla-js basic app which uses the event listener a
 ### tutorial- [neoGcamp- Javascript in the Browser](https://www.youtube.com/watch?v=yLZazznWoAs&list=PLzvhQUIpvvuj5KPnyPyWsvgyzNkX_ACPA&index=6)
 
 
- ### Note:
- <i>This app is only meant to be run on computer as it is not a responsive . It may look like a total mess if opened on anything other than computer.</i>
+ 
